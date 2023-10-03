@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.deviark.sisters",
+    "sha256_cert_fingerprints":
+    ["AC:52:F4:20:4D:BF:FD:38:1E:4F:17:43:04:6C:E3:D1:67:9C:EA:B8:1F:01:48:E7:37:D7:ED:31:15:17:CC:BC"]
+  }
+}]
